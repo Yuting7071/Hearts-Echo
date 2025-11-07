@@ -6,7 +6,7 @@ This is the final project for the TEMP course.
 
 Create virtual environment:
 ```bash
-python3 -m venv .venv
+python -m venv .venv
 ```
 
 Enter virtual environment:
