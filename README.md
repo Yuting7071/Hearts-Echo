@@ -1,7 +1,37 @@
-# Final Project (TEMP)
+# Hearts Echo
 
-This is the final project for the TEMP course.
+將你的日常記錄轉換成自然、流暢的語言描述。
 
+## 這是什麼？
+
+Hearts Echo 會根據你提供的資訊，自動生成一段自然的文字描述。你可以提供任何資訊，系統會智能地選擇合適的句子模板來組合它們。
+
+## 如何使用
+
+只需要提供你想描述的資訊，例如：
+
+**你提供的資訊：**
+- 穿著：白色 T 恤
+- 天氣：晴朗
+- 心情：開心
+
+**系統會生成：**
+> "On a sunny day, you happily put on a white T-shirt."
+
+系統會自動選擇最合適的句子模板，讓你的記錄讀起來更自然、更有溫度。
+
+## 特色
+
+- **智能組合** - 根據你提供的資訊自動選擇最合適的句子
+- **靈活使用** - 可以提供部分資訊，系統會自動適應
+- **多樣表達** - 同樣的資訊每次可能產生不同的描述方式
+
+## 開始使用
+
+訪問 [Docs](/docs) 查看完整功能說明  
+訪問 [GitHub](https://github.com/Teddy9853/Hearts-Echo) 查看源代碼
+
+# For Developers
 ## How to install:
 
 Create virtual environment:
