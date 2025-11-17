@@ -28,4 +28,5 @@ Hearts Echo 會根據你提供的資訊，自動生成一段自然的文字描�
 
 ## 開始使用
 
-訪問 [/docs](/docs) 查看完整功能說明
+訪問 [Docs](/docs) 查看完整功能說明  
+訪問 [GitHub](https://github.com/Teddy9853/Hearts-Echo) 查看源代碼
