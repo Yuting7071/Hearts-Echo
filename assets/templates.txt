@@ -1,0 +1,13 @@
+used: clothe, weather, mood
+unused: date
+
+On a {weather} day, you {mood}ly put on a {clothe}.
+You {mood}ly wore a {clothe} on this {weather} day.
+Feeling {mood}, you chose a {clothe} for the {weather} weather.
+The {weather} weather matched your {mood} mood as you put on a {clothe}.
+On a {weather} day, you put on a {clothe}.
+You {mood}ly put on a {clothe}.
+On a {weather} day, you felt {mood}.
+You put on a {clothe}.
+It was a {weather} day.
+You felt {mood}.
